@@ -1,0 +1,5 @@
+build/
+sdkconfig
+sdkconfig.old
+react.ts/node_modules/
+react.ts/dist/
